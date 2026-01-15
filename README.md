@@ -1,6 +1,6 @@
 # Three-Factor Smart Lock System (ESP32)
 
-A multi-factor smart lock built on an ESP32 using joystick navigation, rotary encoder combinations, and rhythm-based knock authentication. The system uses Dynamic Time Warping (DTW) to perform tempo-invariant knock pattern matching and is designed around a deterministic finite state machine.
+A multi-factor smart lock built on an ESP32 using joystick navigation, rotary encoder combinations, and rhythm-based knock authentication. The system uses Dynamic Time Warping (DTW) to perform tempo-invariant knock pattern matching and is designed around a deterministic finite state machine. (Demo/Images at the bottom)
 
 ---
 
